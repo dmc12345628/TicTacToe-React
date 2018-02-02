@@ -1,0 +1,15 @@
+.case {
+    width: 64px;
+    height: 64px;
+    border: 2px solid white;
+    border-radius: 2px;
+}
+
+.case label {
+  position: absolute !important;
+  width: 24px;
+  padding: 0 !important;
+  margin: 14px 20px 14px 20px !important;
+  font-size: 28pt;
+  color: white;
+}

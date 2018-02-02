@@ -1,0 +1,28 @@
+.plateau {
+    position: relative;
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin: 32px 32px 32px 20%;
+    background: #CFD8DC;/*#90A4AE;/*607D8B*/
+    border: 2px solid white;
+    border-radius: 2px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.dialogs {
+    position: relative;
+    float: left;
+    width: 45%;
+    height: 210px;
+    margin: 32px 0 32px 0;
+}
+.scores {
+    position: relative;
+    float: left;
+    width: 100%;
+}
+.controls {
+    position: relative;
+    float: left;
+    width: 100%;
+}
